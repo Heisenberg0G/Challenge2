@@ -37,7 +37,7 @@ p{
 }
 .container{
     position: relative;
-    top: 50%;
+    top: 30%;
     height: 460px;
     line-height: normal;
     flex-wrap: wrap;
